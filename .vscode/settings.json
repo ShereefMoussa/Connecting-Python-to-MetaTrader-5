@@ -1,0 +1,17 @@
+{
+  "python.pythonPath": "C:\\Users\\shere\\Anaconda3\\envs\\base\\python.exe",
+  "python.terminal.activateEnvironment": true,
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+  "python.linting.enabled": true,
+  "cSpell.words": [
+    "iloc",
+    "iterrows",
+    "MACD",
+    "mdates",
+    "mplfinance",
+    "mticker",
+    "ohlc",
+    "pyplot"
+  ],
+  "jupyter.jupyterServerType": "local"
+}
