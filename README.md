@@ -10,7 +10,7 @@
 
 ## The Goal of the project:
 
-- Make a bridge between metatrader 5 and python script.
+* Make a bridge between metatrader 5 and python script.
 - pulling data & always checking if the connection is not lost. to pull the missing data from last raw.
 - Processing data adding technical indicators like moving average and MACD.
 - visualize the data to make sure everything is correct.
