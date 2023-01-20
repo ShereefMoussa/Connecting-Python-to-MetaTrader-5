@@ -15,3 +15,13 @@
 - Processing data adding technical indicators like moving average and MACD.
 - visualize the data to make sure everything is correct.
 - Testing trading strategy to to measure it's performance.
+
+## How it works:
+
+- change the variables you need in script/variables.py (username - password - server name - symbols you want to trade - timeframe - risk tolerance) 
+- create your strategy in script/strategies folder in a new file.
+- don't forget to change script/strategies/__init__.py based on what you did
+- put your new function inside "strategies function" in script/indicators_and_strategies.py
+- run the script/main.py file
+the main.py file will run two functions. the first "chart_populate_fuc" for streaming data using dash module. the second "core" for pulling and processing data.
+- 
